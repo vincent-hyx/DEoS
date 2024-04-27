@@ -1,0 +1,2165 @@
+[
+    {
+        "question": "Mrs. Snyder made 86.0 heart cookies . She made 36.0 red cookies and the rest are pink . How many pink cookies did she make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "86.0-36.0+86.0=136.0"
+    },
+    {
+        "question": "There are 4.0 children in the classroom , each student will get 2.0 pencils . How many pencils will the teacher have to give out ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0*2.0+4.0=12.0"
+    },
+    {
+        "question": "At the hardware store , 0.25 the nails are size 2d and 0.5 the nails are size 4d . What fraction of the nails are either size 2d or 4d ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "0.25+0.5+0.25=1.0"
+    },
+    {
+        "question": "Each banana costs $ 5.0 . How much do 4.0 bananas cost ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0*4.0+5.0=25.0"
+    },
+    {
+        "question": "Chloe was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Chloe have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "4.0*(2.0+6.0+6.0)=56.0"
+    },
+    {
+        "question": "Virginia starts with 96.0 eggs . Amy takes 3.0 away . How many eggs does Virginia end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "96.0-3.0+96.0=189.0"
+    },
+    {
+        "question": "John needs $ 2.5 . He has $ 0.75 . How much more money does he need ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "2.5-0.75+2.5=4.2500"
+    },
+    {
+        "question": "Dan had 7.0 potatoes and 4.0 cantelopes in the garden . The rabbits ate 4.0 of the potatoes . How many potatoes does Dan now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "7.0-4.0+7.0=10.0"
+    },
+    {
+        "question": "Kevin bought 2.0 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds . How many pounds of watermelon did Kevin buy ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "9.91+4.11+9.91=23.9300"
+    },
+    {
+        "question": "Isabel uploaded 2.0 pictures from her phone and 4.0 from her camera to facebook . If she sorted the pics into 3.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "(2.0+4.0)/3.0+3.0=5.0"
+    },
+    {
+        "question": "Ashley sold 12.0 boxes of Samoas . How many cases of 12.0 boxes , plus extra boxes does Ashley need ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "12.0/12.0+12.0=13.0"
+    },
+    {
+        "question": "There are 2.0 rose bushes currently in the park . Park workers will plant 4.0 more rose bushes today . How many rose bushes will the park have when the workers are finished ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0+4.0+2.0=8.0"
+    },
+    {
+        "question": "Sara had 4.0 quarters and 8.0 dimes in her bank . Her sister borrowed 4.0 dimes . How many dimes does Sara have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "If Victor split 25.0 Skittles between 5.0 people in her class and kept the left overs , how many Skittles did each classmate get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "25.0/5.0+25.0=30.0"
+    },
+    {
+        "question": "Mary picked 14.0 oranges and Jason picked 41.0 oranges . Keith picked 38.0 apples . How many oranges were picked in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "14.0+41.0+14.0=69.0"
+    },
+    {
+        "question": "Kaleb had 12.0 dollars . If he spent 8.0 bucks on a new game , how many 2.0 dollar toys could he buy with the money he had left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(12.0-8.0)/2.0+2.0=4.0"
+    },
+    {
+        "question": "58.0 children are taking a bus to the zoo . They sit 2.0 children in every seat . How many seats will the children need in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "58.0/2.0+58.0=87.0"
+    },
+    {
+        "question": "Sara had 21.0 quarters in her bank . Her dad gave her 49.0 more quarters . How many quarters does she have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "21.0+49.0+21.0=91.0"
+    },
+    {
+        "question": "Stanley ran 0.4 mile and walked 0.2 mile . How much farther did Stanley run than walk ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "0.4-0.2+0.4=0.6000"
+    },
+    {
+        "question": "Shawn has 13.0 blocks . Mildred has with 2.0 blocks . Mildred finds another 84.0 . How many blocks does Mildred end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "2.0+84.0+2.0=88.0"
+    },
+    {
+        "question": "Jessica had 8.0 quarters in her bank . Her sister borrowed 3.0 of her quarters . How many quarters does Jessica have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-3.0+8.0=13.0"
+    },
+    {
+        "question": "It took Amanda 3.0 hours to stroll to Kimberly 's house at 2.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*2.0+3.0=9.0"
+    },
+    {
+        "question": "Mrs. Hilt had 15.0 cents . She bought a pencil for 11.0 cents . How much money did she have left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "15.0-11.0+15.0=19.0"
+    },
+    {
+        "question": "While shopping for music online , Isabel bought 4.0 country albums and 5.0 pop albums . Each album came with a lyric sheet and had 8.0 songs . How many songs did Isabel buy total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "8.0*(4.0+5.0+5.0)=112.0"
+    },
+    {
+        "question": "A chef bought 0.14 kilograms of almonds and 0.38 kilograms of pecans . How many kilograms of nuts did the chef buy in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "0.14+0.38+0.14=0.6600"
+    },
+    {
+        "question": "Helen starts with 82.0 cards . Gary takes 9.0 away . How many cards does Helen end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "82.0-9.0+82.0=155.0"
+    },
+    {
+        "question": "Olivia was making baggies of cookies with 9.0 cookies in each bag . If she had 13.0 chocolate chip cookies and 41.0 oatmeal cookies , how many baggies could she make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(13.0+41.0)/9.0+9.0=15.0"
+    },
+    {
+        "question": "If Bob can make 100.0 feet of rope in 2.0 hours and Tim can make 75.0 feet of rope in 2.0 hours , how many feet of rope can Bob and Tim working together make in 4.0 hours ?",
+        "label": 0,
+        "id": "offline",
+        "p": 0,
+        "answer": "(100.0+2.0)*4.0+2.0/75.0*4.0=408.1067"
+    },
+    {
+        "question": "Nancy 's old washing machine could only wash 9.0 pieces of clothing at a time . If she had to wash 19.0 shirts and 8.0 sweaters how many loads would she have to do ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(19.0+8.0)/9.0+9.0=12.0"
+    },
+    {
+        "question": "Joan has 10.0 books . Tom has 38.0 books . How many books do they have together ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "10.0+38.0+10.0=58.0"
+    },
+    {
+        "question": "Tom bought 14.0 boxes of chocolate candy and gave 8.0 to his little brother . If each box has 3.0 pieces inside it , how many pieces did Tom still have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "3.0*(14.0-8.0+8.0)=42.0"
+    },
+    {
+        "question": "Misha has 34.0 dollars . How many more dollars does she have to earn to have 47.0 dollars ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "47.0-34.0+47.0=60.0"
+    },
+    {
+        "question": "Fred has 5.0 baseball cards . Melanie bought 3.0 of Fred 's baseball cards . How many baseball cards does Fred have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0-3.0+5.0=7.0"
+    },
+    {
+        "question": "Kenji and his classmates placed colored blocks on a scale during a science lab . The yellow block weighed 0.6 pounds and the green block weighed 0.4 pounds . How much more did the yellow block weigh than the green block ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "0.6-0.4+0.6=0.8000"
+    },
+    {
+        "question": "Joan found 70.0 seashells on the beach . she gave Sam some of her seashells . She has 27.0 seashell . How many seashells did she give to Sam ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "70.0-27.0+70.0=113.0"
+    },
+    {
+        "question": "Isabel had 2.0 pages of math homework and 4.0 pages of reading homework . If each page had 5.0 problems on it , how many problems did she have to complete total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "5.0*(2.0+4.0+4.0)=50.0"
+    },
+    {
+        "question": "A bowl contains 4.0 red chips , 3.0 blue chips , and 9.0 green chips . You choose 1.0 chip at random . What is the probability that your chip is not red ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "(3.0+9.0)/(3.0-4.0+3.0+9.0)=1.0909"
+    },
+    {
+        "question": "Keith picked 3.0 pears and Jason picked 2.0 pears from the pear tree . Joan picked 5.0 apples from the apple tree . How many pears were picked in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0+2.0+3.0=8.0"
+    },
+    {
+        "question": "Maria was making baggies of cookies with 5.0 cookies in each bag . If she had 33.0 chocolate chip cookies and 2.0 oatmeal cookies , how many baggies could she make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(33.0+2.0)/5.0+5.0=12.0"
+    },
+    {
+        "question": "I have 648.0 pencils . If I put 4.0 pencils in each pencil box , how many pencil boxes will I fill ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "648.0/4.0+648.0=810.0"
+    },
+    {
+        "question": "Joan has 8.0 orange balloons but lost 2.0 of them . How many orange balloons does Joan have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-2.0+8.0=14.0"
+    },
+    {
+        "question": "Ralph collects 4.0 cards . Ralph 's father gives Ralph 8.0 more . How many cards does Ralph have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0+8.0+4.0=16.0"
+    },
+    {
+        "question": "Professor Ellison weighed 2.0 pieces of metal for an experiment . The piece of iron weighed 11.166666666666666 pounds and the piece of aluminum weighed 0.8333333333333334 pound . How much more did the piece of iron weigh than the piece of aluminum ?",
+        "label": 0,
+        "id": "offline",
+        "p": 36,
+        "answer": "11.166666666666666-0.8333333333333334+11.166666666666666=21.5000"
+    },
+    {
+        "question": "Sandy 's dog had 8.0 puppies and 4.0 had spots . She gave 4.0 to her friends . How many puppies does she now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "There are 5.0 scissors and 3.0 pencils in the drawer . Jason placed 4.0 scissors in the drawer . How many scissors are now there in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0+4.0+5.0=14.0"
+    },
+    {
+        "question": "There are 14240.0 books in a library . They are arranged on shelves that hold 8.0 books each . How many shelves are in the library ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "14240.0/8.0+14240.0=16020.0"
+    },
+    {
+        "question": "A pet store has 9.0 bird cages . If each cage has 2.0 parrots and 2.0 parakeets in it , how many birds does the pet store have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "9.0*(2.0+2.0+2.0)=54.0"
+    },
+    {
+        "question": "Dan has 64.0 violet marbles , he gave Mary 14.0 of the marbles . How many violet marbles does he now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "64.0-14.0+64.0=114.0"
+    },
+    {
+        "question": "Bonnie has 10.0 tickets . If she shares them among 2.0 friends , how many tickets does each friend get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "10.0/2.0+10.0=15.0"
+    },
+    {
+        "question": "Willie starts with 36.0 stickers . He gives 7.0 to Emily . How many stickers does Willie end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "36.0-7.0+36.0=65.0"
+    },
+    {
+        "question": "It took Carl 5.0 hours to ride to Ralph 's house at 2.0 miles per hour . How far is it between Carl 's house and Ralph 's house ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0*2.0+5.0=15.0"
+    },
+    {
+        "question": "For dessert , Jane ’ s mom prepared 12.0 pieces of bite - size cinnamon swirls . If the 3.0 of them ate an equal number of pieces of cinnamon swirls , how many pieces did Jane eat ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "12.0/3.0+12.0=16.0"
+    },
+    {
+        "question": "Tessa has 4.0 apples . Anita gave her 5.0 more . She needs 10.0 apples to make a pie . Does she have enough to make a pie ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0+5.0+4.0=13.0"
+    },
+    {
+        "question": "Megan baked 71.0 cupcakes for her school 's bake sale . If her brother , Todd , ate 43.0 of them how many packages could she make if she put 7.0 cupcake in each package ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(71.0-43.0)/7.0+7.0=11.0"
+    },
+    {
+        "question": "Emily sprinted to Timothy 's house . It is 10.0 miles from Emily 's house to Timothy 's house . It took Emily 2.0 hours to get there . How fast did Emily go ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "10.0/2.0+10.0=15.0"
+    },
+    {
+        "question": "George has 2.0 boxes of blocks . Each box holds 6.0 blocks and there are 5.0 boxes in a case . How many blocks does George have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0*6.0+2.0=14.0"
+    },
+    {
+        "question": "Donna weighs 69.0 pounds . Willie weighs 51.0 pounds . How much heavier is Donna than Willie ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "69.0-51.0+69.0=87.0"
+    },
+    {
+        "question": "Each day , the polar bear at Richmond 's zoo eats 0.2 bucket of trout and 0.4 bucket of salmon . How many buckets of fish does the polar bear eat daily ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "0.2+0.4+0.2=0.8000"
+    },
+    {
+        "question": "Oliver made 35.0 dollars mowing lawns over the summer . If he spent 7.0 dollars buying new mower blades , how many 4.0 dollar games could he buy with the money he had left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(35.0-7.0)/4.0+4.0=11.0"
+    },
+    {
+        "question": "There are 37.0 baskets . There are 17.0 apples in each basket . How many apples are there in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "37.0*17.0+37.0=666.0"
+    },
+    {
+        "question": "Randy has 78.0 blocks . He uses 19.0 blocks to build a tower . How many blocks are left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "78.0-19.0+78.0=137.0"
+    },
+    {
+        "question": "Ned bought 14.0 boxes of chocolate candy and gave 7.0 to his little brother . If each box has 6.0 pieces inside it , how many pieces did Ned still have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "6.0*(14.0-7.0+7.0)=84.0"
+    },
+    {
+        "question": "There were 28.0 bales of hay in the barn . Tim stacked bales in the barn today . There are now 54.0 bales of hay in the barn . How many bales did he store in the barn ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "54.0-28.0+54.0=80.0"
+    },
+    {
+        "question": "Mary picked 122.0 oranges and Jason picked 105.0 oranges from the orange tree . How many oranges were picked in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "122.0+105.0+122.0=349.0"
+    },
+    {
+        "question": "Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0+7.0+5.0=17.0"
+    },
+    {
+        "question": "Gwen earned 8.0 points for each bag of cans she recycled . If she had 4.0 bags , but did n't recycle 2.0 of them , how many points would she have earned ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "8.0*(4.0-2.0+2.0)=32.0"
+    },
+    {
+        "question": "The cafeteria had 62.0 apples . For lunch they handed out 8.0 to students and decided to use the rest to make pies . If each pie takes 9.0 apples , how many pies could they make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(62.0-8.0)/9.0+9.0=15.0"
+    },
+    {
+        "question": "Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots . How many ladybugs are there in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "12170.0+54912.0+12170.0=79252.0"
+    },
+    {
+        "question": "Mike went to 15.0 basketball games this year , but missed 41.0 . He went to 39.0 games last year . How many basketball games did Mike go to in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "15.0+39.0+15.0=69.0"
+    },
+    {
+        "question": "Maria has 3.0 boxes of eggs . Each box holds 7.0 eggs and there are 8.0 boxes in a case . How many eggs does Maria have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*7.0+3.0=24.0"
+    },
+    {
+        "question": "Mildred weighs 59.0 pounds . Carol weighs 9.0 pounds . How much heavier is Mildred than Carol ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "59.0-9.0+59.0=109.0"
+    },
+    {
+        "question": "Michelle has 2.0 crayons . Janet has 2.0 crayons . If Janet gives all of her crayons to Michelle , how many crayons will Michelle have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0+2.0+2.0=6.0"
+    },
+    {
+        "question": "Sara got fast food for lunch . Sara spent $ 5.36 on a hotdog and $ 5.1 on a salad . What was the total of the lunch bill ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "5.36+5.1+5.36=15.8200"
+    },
+    {
+        "question": "There are 11.0 rulers and 34.0 crayons in the drawer . Tim placed 14.0 rulers in the drawer . How many rulers are now there in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "11.0+14.0+11.0=36.0"
+    },
+    {
+        "question": "Frank had saved up 3.0 dollars . If he received another 37.0 dollars for his allowance , how many 8.0 dollar toys could he buy ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(3.0+37.0)/8.0+8.0=13.0"
+    },
+    {
+        "question": "At a sale , the cost of a pair of shoes was reduced from 42.0 dollars to 33.6 dollars . What was the percent of discount ?",
+        "label": 0,
+        "id": "offline",
+        "p": 16,
+        "answer": "((42.0-33.6)/42.0+33.6)*100.0=3380.0000"
+    },
+    {
+        "question": "There are 261.0 fishbowls . Each fishbowl has 23.0 fish . How many fish are there ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "261.0*23.0+261.0=6264.0"
+    },
+    {
+        "question": "Bryan had 8.0 precious stones in his collection which he sold to his friend from the jewelry store . If the stones were sold at 1785.0 dollar each , how much money did Bryan get in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "8.0*1785.0+8.0=14288.0"
+    },
+    {
+        "question": "A bee has 6.0 legs . How many legs do 8.0 bees have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "6.0*8.0+6.0=54.0"
+    },
+    {
+        "question": "Patrick jogged to Aaron 's house . It is 14.0 miles from Patrick 's house to Aaron 's house . It took Patrick 2.0 hours to get there . How fast did Patrick go ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "14.0/2.0+14.0=21.0"
+    },
+    {
+        "question": "Michael has some fish in his fish tank . Ben gave him 18.0 more fish . Now he has 49.0 . How many fish did he have to begin with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "49.0-18.0+49.0=80.0"
+    },
+    {
+        "question": "There were 14.0 kids on the soccer field . 22.0 kids decided to join in . Now how many kids are on the soccer field ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "14.0+22.0+14.0=50.0"
+    },
+    {
+        "question": "Fred has 709.0 green balloons , he gave Sandy 221.0 of the balloons . How many green balloons does he now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "709.0-221.0+709.0=1197.0"
+    },
+    {
+        "question": "The Sumata family took a 5.0 day vacation by car . Each day they drove 250.0 miles . How many total miles did they drive ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "5.0*250.0+5.0=1255.0"
+    },
+    {
+        "question": "Maria bought 2.0 new chairs and 2.0 new tables for her house . If she spent 8.0 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "8.0*(2.0+2.0+2.0)=48.0"
+    },
+    {
+        "question": "Kim has 4.0 cousins . She wants to give each cousin 5.0 pieces of gum . How much gum will she need ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0*5.0+4.0=24.0"
+    },
+    {
+        "question": "Melissa has 88.0 bananas . She shares 4.0 with Joshua . How many bananas will Melissa have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "88.0-4.0+88.0=172.0"
+    },
+    {
+        "question": "Isabella ’ s hair is 18.0 cubes long . If her hair grows 4.0 more inches , how long will it be ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "18.0+4.0+18.0=40.0"
+    },
+    {
+        "question": "Mike is at the library helping put away books . There are 82.0 book to put away total but a librarian takes 10.0 of them and leaves Mike with the rest . If he can fit 9.0 books on a shelf , how many shelves will he need ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(82.0-10.0)/9.0+9.0=17.0"
+    },
+    {
+        "question": "Joan picked 43.0 apples from the orchard , and gave 27.0 apples to Melanie . How many apples does Joan have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "43.0-27.0+43.0=59.0"
+    },
+    {
+        "question": "Tim had 7.0 quarters and 9.0 nickels in his bank . His dad gave him 3.0 nickels and 5.0 pennies . How many nickels does Tim have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "9.0+3.0+9.0=21.0"
+    },
+    {
+        "question": "A teacher has 344.0 pieces of candy . If there are 43.0 students , and the candy is divided evenly , How many pieces will each student get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "344.0/43.0+344.0=352.0"
+    },
+    {
+        "question": "Ralph starts with 74.0 peanuts . He loses 59.0 . How many peanuts does Ralph end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "74.0-59.0+74.0=89.0"
+    },
+    {
+        "question": "At the town carnival Oliver rode the ferris wheel 7.0 times and the bumper cars 3.0 times . If each ride cost 3.0 tickets , how many tickets did he use ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "3.0*(7.0+3.0+3.0)=39.0"
+    },
+    {
+        "question": "At lunch a waiter had 7.0 customers and 5.0 of them did n't leave a tip . If he got $ 3.0 each from the ones who did tip , how much money did he earn ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "3.0*(7.0-5.0+5.0)=21.0"
+    },
+    {
+        "question": "Isabel picked 66.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 10.0 of the flowers wilted before the wedding , how many bouquets could she still make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(66.0-10.0)/8.0+8.0=15.0"
+    },
+    {
+        "question": "Sara got fast food for lunch . Sara spent $ 5.36 on a hotdog and $ 5.1 on a salad . What was the total of the lunch bill ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "5.36+5.1+5.36=15.8200"
+    },
+    {
+        "question": "Sandy worked 45.0 hours in the last 5.0 days . Assuming that she worked the same amount of hours each day , how long did she work each day ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "45.0/5.0+45.0=54.0"
+    },
+    {
+        "question": "Ceasar needs to read a 563.0 page book for school . He has already read 147.0 pages . How many pages does he have left to read ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "563.0-147.0+563.0=979.0"
+    },
+    {
+        "question": "Jenny ran 0.6 mile and walked 0.4 mile . How much farther did Jenny run than walk ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "0.6-0.4+0.6=0.8000"
+    },
+    {
+        "question": "Nancy had 101.0 homework problems . She finished 47.0 of them but still had 6.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?",
+        "label": 0,
+        "id": "offline",
+        "p": 15,
+        "answer": "(101.0-47.0)/6.0+6.0=15.0"
+    },
+    {
+        "question": "Sara has 9.0 dozen golf balls . How many golf balls does she have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "9.0*12.0+9.0=117.0"
+    },
+    {
+        "question": "A pet store has 8.0 bird cages . If each cage has 2.0 parrots and 7.0 parakeets in it , how many birds does the pet store have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "8.0*(2.0+7.0+7.0)=128.0"
+    },
+    {
+        "question": "I walked 2.0 miles in 1.0 hour for Relay for Life . If I maintained this pace for the 8.0 hours I walk , how many miles total will I walk ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0*8.0+2.0=18.0"
+    },
+    {
+        "question": "Mary had 21.0 dimes and 38.0 pennies in her bank . Her dad borrowed 18.0 pennies from Mary . How many pennies does she have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "38.0-18.0+38.0=58.0"
+    },
+    {
+        "question": "A toy store had 4.0 giant stuffed bears in stock when they got another shipment with 10.0 bears in it . The put the bears onto shelves with 7.0 on each shelf . How many shelves did they use ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(4.0+10.0)/7.0+7.0=9.0"
+    },
+    {
+        "question": "Robin uploaded 31.0 pictures from her phone and 5.0 from her camera to facebook . If she sorted the pics into 9.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(31.0+5.0)/9.0+9.0=13.0"
+    },
+    {
+        "question": "A tailor cut 0.75 inch off a skirt and 0.5 inch off a pair of pants . How much more did the tailor cut off the skirt than the pants ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "0.75-0.5+0.75=1.0"
+    },
+    {
+        "question": "There are 36.0 bananas in Diane 's banana collection . If the bananas are organized into 6.0 groups , how big is each group ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "36.0/6.0+36.0=42.0"
+    },
+    {
+        "question": "In a school , there are 542.0 girls and 387.0 boys . How many pupils are there in that school ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "542.0+387.0+542.0=1471.0"
+    },
+    {
+        "question": "Mrs. Hilt bought 2.0 pizzas . Each pizza had 8.0 slices . How many total slices of pizza did she have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0*8.0+2.0=18.0"
+    },
+    {
+        "question": "Zoe and her friends were recycling paper for their class . For every 8.0 pounds they recycled they earned one point . If Zoe recycled 25.0 pounds and her friends recycled 23.0 pounds , how many points did they earn ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(25.0+23.0)/8.0+8.0=14.0"
+    },
+    {
+        "question": "There are 2.0 apples in a pile on the desk . Each apple comes in a package of 7.0 . 4.0 apples are added to the pile . How many apples are there in the pile ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0+4.0+2.0=8.0"
+    },
+    {
+        "question": "Tom found 5.0 seashells on the beach . he gave Jessica 2.0 of the seashells . How many seashells does he now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0-2.0+5.0=8.0"
+    },
+    {
+        "question": "A multi - national corporation has 2041.0 part - time employees and 63093.0 full - time employees . How many employees work for the corporation ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "2041.0+63093.0+2041.0=67175.0"
+    },
+    {
+        "question": "A toy store had 5.0 giant stuffed bears in stock when they got another shipment with 7.0 bears in it . The put the bears onto shelves with 6.0 on each shelf . How many shelves did they use ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "(5.0+7.0)/6.0+6.0=8.0"
+    },
+    {
+        "question": "A truck carrying 4.1 pounds of sand travels to a construction yard and loses 2.4 pounds of sand along the way . How much sand does the truck have when it arrives at the yard ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.1-2.4+4.1=5.8000"
+    },
+    {
+        "question": "Nancy has saved 1.0 dozen quarters from washing cars . How much money does Nancy have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "12.0*0.25+12.0=15.0"
+    },
+    {
+        "question": "Paul bought 6.0 boxes of chocolate candy and 4.0 boxes of caramel candy . If each box has 9.0 pieces inside it , how much candy did he have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "9.0*(6.0+4.0+4.0)=126.0"
+    },
+    {
+        "question": "Lisa starts with 91.0 bananas . Maria gives Lisa 8.0 more . How many bananas does Lisa end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "91.0+8.0+91.0=190.0"
+    },
+    {
+        "question": "Fred grew 38.0 cantelopes . Tim grew 44.0 cantelopes . How many cantelopes did they grow in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "38.0+44.0+38.0=120.0"
+    },
+    {
+        "question": "There were 2.0 friends playing a video game online when 2.0 more players joined the game . If each player had 6.0 lives , how many lives did they have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "6.0*(2.0+2.0+2.0)=36.0"
+    },
+    {
+        "question": "Joan decided to sell all of her old books . She gathered up 33.0 books to sell . She sold 26.0 books in a yard sale . How many books does Joan now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "33.0-26.0+33.0=40.0"
+    },
+    {
+        "question": "There are 86.0 blocks . 9.0 blocks more are added . How many are there total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "86.0+9.0+86.0=181.0"
+    },
+    {
+        "question": "A pet shelter had 17.0 puppies when another 55.0 were brought in . If 8.0 puppies a day are adopted , how long would it take for all of them to be adopted ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(17.0+55.0)/8.0+8.0=17.0"
+    },
+    {
+        "question": "Each bag contains 23.0 pounds of oranges . How many pounds of oranges are in 45.0 bags ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "23.0*45.0+23.0=1058.0"
+    },
+    {
+        "question": "Sam had 7.0 pennies and 8.0 dimes in his bank . His sister borrowed 4.0 dimes . How many dimes does Sam have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "Sarah picked 45.0 apples . Her brother picked 9.0 apples . How many times as many apples did Sarah pick ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "45.0/9.0+45.0=50.0"
+    },
+    {
+        "question": "Christopher strolled 5.0 miles at 4.0 miles per hour . How long did Christopher stroll ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0/4.0+5.0=6.2500"
+    },
+    {
+        "question": "Henry had 3.0 action figures , but needed 8.0 total for a complete collection . If each one costs $ 6.0 , how much money would he need to finish his collection ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "6.0*(8.0-3.0+3.0)=48.0"
+    },
+    {
+        "question": "At a restaurant each adult meal costs $ 2.0 and kids eat free . If a group of 9.0 people came in and 2.0 were kids , how much would it cost for the group to eat ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "2.0*(9.0-2.0+2.0)=18.0"
+    },
+    {
+        "question": "Jason has 18.0 books and he has read 9.0 of them . Mary has 42.0 books . How many books do they have together ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "18.0+42.0+18.0=78.0"
+    },
+    {
+        "question": "Charlie has 31.0 more snowballs than Lucy . She has 19.0 snowballs . How many does Charlie have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "31.0+19.0+31.0=81.0"
+    },
+    {
+        "question": "Ronald went to the store 2.0 times last month . He buys 10.0 bananas each time he goes to the store . How many bananas did Ronald buy last month ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "2.0*10.0+2.0=22.0"
+    },
+    {
+        "question": "There are 12.0 birds on the fence . 8.0 more birds land on the fence . How many birds are on the fence ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "12.0+8.0+12.0=32.0"
+    },
+    {
+        "question": "A chef needs to cook 12.0 potatoes . He has already cooked 6.0 . If each potato takes 6.0 minutes to cook , how long will it take him to cook the rest ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "6.0*(12.0-6.0+6.0)=72.0"
+    },
+    {
+        "question": "Jerry made 14.0 dollars mowing lawns and 31.0 dollars weed eating . If he only spent 5.0 dollar a week , how long would the money last him ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(14.0+31.0)/5.0+5.0=14.0"
+    },
+    {
+        "question": "Tiffany uploaded 7.0 pictures from her phone and 13.0 from her camera to facebook . If she sorted the pics into 5.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(7.0+13.0)/5.0+5.0=9.0"
+    },
+    {
+        "question": "Victor was working as a sacker at a grocery store where he made 6.0 dollars an hour . On Monday he worked 5.0 hours and on Tuesday he worked 5.0 hours . How much money did Victor make in those two days ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "6.0*(5.0+5.0+5.0)=90.0"
+    },
+    {
+        "question": "Connie has 2315.0 red markers and 1028.0 blue markers . How many markers does she have altogether ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "2315.0+1028.0+2315.0=5658.0"
+    },
+    {
+        "question": "The Litter Patrol picked up 10.0 glass bottles and 8.0 aluminum cans on Saturday . How many pieces of litter did they pick up altogether ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "10.0+8.0+10.0=28.0"
+    },
+    {
+        "question": "Paul had 42.0 strawberries in his basket . He picked 78.0 more strawberries . How many strawberries did he have then ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "42.0+78.0+42.0=162.0"
+    },
+    {
+        "question": "There school 's baseball team had 48.0 new players and 6.0 returning players . If the coach put them into groups with 6.0 players in each group , how many groups would there be ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(48.0+6.0)/6.0+6.0=15.0"
+    },
+    {
+        "question": "Kenneth has 3.0 marbles . He buys 6.0 more . Later , Kenneth buys 15.0 apples at the store . How many marbles does Kenneth have in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0+6.0+3.0=12.0"
+    },
+    {
+        "question": "A cake recipe requires 0.6 cup of sugar for the frosting and 0.2 cup of sugar for the cake . How much sugar is that altogether ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "0.6+0.2+0.6=1.4000"
+    },
+    {
+        "question": "There are 3.0 short trees and 6.0 tall trees currently in the park . Park workers will plant 9.0 short trees today . How many short trees will the park have when the workers are finished ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0+9.0+3.0=15.0"
+    },
+    {
+        "question": "Heather starts with 86.0 blocks . She shares 41.0 with Jose . How many blocks does Heather end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "86.0-41.0+86.0=131.0"
+    },
+    {
+        "question": "The Ferris wheel in Paradise Park has 14.0 seats . Each seat can hold 6.0 people . How many people can ride the Ferris wheel at the same time ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "14.0*6.0+14.0=98.0"
+    },
+    {
+        "question": "Ted has 15.0 candy bars . He wants to put them into 5.0 bags so there are the same number of candy bars in each bag . How many candy bars should go in each bag ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "15.0/5.0+15.0=18.0"
+    },
+    {
+        "question": "Andrew spent 3.0 day working on his Science report . He worked for 2.5 hours each day . How many hours did he work ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*2.5+3.0=10.5000"
+    },
+    {
+        "question": "Each of farmer Cunningham 's 6048.0 lambs is either black or white . There are 193.0 white ones . How many of Farmer Cunningham 's lambs are black ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "6048.0-193.0+6048.0=11903.0"
+    },
+    {
+        "question": "Bob ’ s car gets 10.0 kilometers per gallon . How far can he drive on 10.0 gallons of gas ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "10.0*10.0*10.0=1000.0"
+    },
+    {
+        "question": "Joan has 47.0 green and 48.0 red marbles . Fred took 24.0 of Joan 's green marbles . How many green marbles does Joan now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "47.0-24.0+47.0=70.0"
+    },
+    {
+        "question": "A bathing suit manufacturer has a supply of 14797.0 bathing suits for men . In addition , it has 4969.0 bathing suits for women . How many bathing suits are available overall ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "14797.0+4969.0+14797.0=34563.0"
+    },
+    {
+        "question": "Alyssa picked 17.0 plums and Jason picked 10.0 plums . Melanie picked 35.0 pears . How many plums were picked in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "17.0+10.0+17.0=44.0"
+    },
+    {
+        "question": "There are 9.0 crayons in the drawer . Benny placed 3.0 more crayons in the drawer . How many crayons are now there in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "9.0+3.0+9.0=21.0"
+    },
+    {
+        "question": "Alyssa picked 42.0 pears and Nancy picked 17.0 pears from the pear tree . How many pears were picked in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "42.0+17.0+42.0=101.0"
+    },
+    {
+        "question": "April 's discount flowers was having a sale where each flower was 3.0 dollars . If Emily bought 2.0 roses and 2.0 daisies , how much did she spend ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "3.0*(2.0+2.0+2.0)=18.0"
+    },
+    {
+        "question": "Sam grew 4.0 watermelons , but the rabbits ate 3.0 watermelons . How many watermelons does Sam have left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0-3.0+4.0=5.0"
+    },
+    {
+        "question": "The farmers reported that they harvest 45.0 sacks of apples from each of the 8.0 sections of the orchard daily . How many sacks are harvested every day ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "45.0*8.0+45.0=405.0"
+    },
+    {
+        "question": "Luke made 9.0 dollars mowing lawns and 18.0 dollars weed eating . If he only spent 3.0 dollar a week , how long would the money last him ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(9.0+18.0)/3.0+3.0=12.0"
+    },
+    {
+        "question": "Sally paid $ 12.32 total for peaches , after a 3.0 dollar coupon , and $ 11.54 for cherries . In total , how much money did Sally spend ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "12.32+11.54+12.32=36.1800"
+    },
+    {
+        "question": "Mary has 9.0 yellow marbles Joan has 3.0 yellow marbles . How many yellow marbles do they have in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "9.0+3.0+9.0=21.0"
+    },
+    {
+        "question": "There are 3.0 calories in a candy bar . How many calories are there in 5.0 candy bars ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*5.0+3.0=18.0"
+    },
+    {
+        "question": "Megan 's class is going on a field trip to the zoo . If each van can hold 5.0 people and there are 25.0 students and 5.0 adults going , how many vans will they need ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(5.0+25.0)/5.0+5.0=11.0"
+    },
+    {
+        "question": "There were 58.0 geese and 37.0 ducks in the marsh . How many birds were in the marsh ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "58.0+37.0+58.0=153.0"
+    },
+    {
+        "question": "Tom bought 12.0 boxes of chocolate candy and gave 7.0 to his little brother . If each box has 6.0 pieces inside it , how many pieces did Tom still have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "6.0*(12.0-7.0+7.0)=72.0"
+    },
+    {
+        "question": "Carlos has 58.0 blocks . He gives 21.0 to Rachel . How many blocks will Carlos have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "58.0-21.0+58.0=95.0"
+    },
+    {
+        "question": "Anna collects 6.0 blocks . Anna 's father gives Anna 8.0 more . How many blocks does Anna have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "6.0+8.0+6.0=20.0"
+    },
+    {
+        "question": "Paul had saved up 3.0 dollars . If he received another 7.0 dollars for his allowance , how many 5.0 dollar toys could he buy ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "(3.0+7.0)/5.0+5.0=7.0"
+    },
+    {
+        "question": "Tori is a school janitor . Last week , she picked up a total of 1576.0 pieces of trash . If she picked up 344.0 pieces of trash in the classrooms , how many pieces of trash did Tori pick up outside the classrooms ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "1576.0-344.0+1576.0=2808.0"
+    },
+    {
+        "question": "There were a total of 27.0 soccer games during the 3.0 month season . If the games are equally divided , how many soccer games are played a month ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "27.0/3.0+27.0=36.0"
+    },
+    {
+        "question": "James has 1222.0 balloons . Amy has 513.0 balloons . How many more balloons does James have than Amy ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "1222.0-513.0+1222.0=1931.0"
+    },
+    {
+        "question": "Robin has 27.0 packages of gum . There are 18.0 pieces in each package . How many pieces of gum does Robin have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "27.0*18.0+27.0=513.0"
+    },
+    {
+        "question": "Paige picked 53.0 flowers for her friend ’ s wedding . She was making bouquets with 7.0 flowers in each one . If 18.0 of the flowers wilted before the wedding , how many bouquets could she still make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(53.0-18.0)/7.0+7.0=12.0"
+    },
+    {
+        "question": "Mrs. Hilt bought 6.0 hot dogs . Each hot dog cost 50.0 cents . How much money did she pay for all of the hot dogs ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "6.0*50.0+6.0=306.0"
+    },
+    {
+        "question": "Paco had 93.0 cookies . Paco ate 15.0 of them . How many cookies did Paco have left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "93.0-15.0+93.0=171.0"
+    },
+    {
+        "question": "Fred has 110.0 blue marbles . Fred has 22.0 times more blue marbles than Tim . How many blue marbles does Tim have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "110.0/22.0+110.0=115.0"
+    },
+    {
+        "question": "A cereal box holds 18.0 cups of cereal . Each serving is 2.0 cups . How many servings are in the whole box ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "18.0/2.0+18.0=27.0"
+    },
+    {
+        "question": "Mary found 2.0 seashells and Keith found 5.0 seashells on the beach . When they cleaned them , they discovered that 9.0 were cracked . How many seashells did they find together ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0+5.0+2.0=9.0"
+    },
+    {
+        "question": "Joan has 9.0 blue balloons but lost 2.0 of them . How many blue balloons does Joan have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "9.0-2.0+9.0=16.0"
+    },
+    {
+        "question": "Roger has 92.0 blocks . 2.0 are eaten by a hippopotamus . How many blocks will Roger have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "92.0-2.0+92.0=182.0"
+    },
+    {
+        "question": "Joan went to 4.0 football games this year . She went to 9.0 football games last year . How many football games did Joan go to in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0+9.0+4.0=17.0"
+    },
+    {
+        "question": "Isha ’ s pencil is 12.0 cubes long . If she gets another pencil that is 12.0 cubes long , how many cubes long are both pencils ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "12.0+12.0+12.0=36.0"
+    },
+    {
+        "question": "If Joan bicycled 25.0 miles at 5.0 miles per hour , how long was Joan travelling ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "25.0/5.0+25.0=30.0"
+    },
+    {
+        "question": "Megan baked 68.0 cupcakes for her school 's bake sale . If her brother , Todd , ate 32.0 of them how many packages could she make if she put 6.0 cupcake in each package ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(68.0-32.0)/6.0+6.0=12.0"
+    },
+    {
+        "question": "Mike has 87.0 baseball cards . Sam bought 13.0 of Mike 's baseball cards . How many baseball cards does Mike have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "87.0-13.0+87.0=161.0"
+    },
+    {
+        "question": "Wendy was playing a video game where she scores 5.0 points for each treasure she finds . If she found 4.0 treasures on the first level and 3.0 on the second , what would her score be ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "5.0*(4.0+3.0+3.0)=50.0"
+    },
+    {
+        "question": "There are 96.0 cupcakes for 8.0 children to share . How much will each person get if they share the cupcakes equally ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "96.0/8.0+96.0=108.0"
+    },
+    {
+        "question": "A pet supply store has 600.0 bags of dog food and 327.0 bags of cat food . How many more bags of dog food are there than cat food ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "600.0-327.0+600.0=873.0"
+    },
+    {
+        "question": "Jason grew 23.0 watermelons and 18.0 turnips . Nancy grew 28.0 watermelons . How many watermelons did they grow in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "23.0+28.0+23.0=74.0"
+    },
+    {
+        "question": "Jessica spent $ 10.22 on a cat toy , and a cage cost her $ 11.73 . What was the total cost of Jessica 's purchases ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "10.22+11.73+10.22=32.1700"
+    },
+    {
+        "question": "A pet store had 56.0 puppies . In one day they sold 24.0 of them and put the rest into cages with 4.0 in each cage . How many cages did they use ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(56.0-24.0)/4.0+4.0=12.0"
+    },
+    {
+        "question": "There are 5.0 people on the Green Bay High track team . If a relay race is 150.0 meters long , how far will each team member have to run ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "150.0/5.0+150.0=180.0"
+    },
+    {
+        "question": "There are 54.0 scissors in the drawer . Keith placed 22.0 scissors in the drawer . How many scissors are now there in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "54.0+22.0+54.0=130.0"
+    },
+    {
+        "question": "Jose starts with 7.0 bottle caps . He gets 2.0 more from Rebecca . How many bottle caps does Jose end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "7.0+2.0+7.0=16.0"
+    },
+    {
+        "question": "Bianca earned 5.0 points for each bag of cans she recycled . If she had 17.0 bags , but did n't recycle 8.0 of them , how many points would she have earned ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "5.0*(17.0-8.0+8.0)=85.0"
+    },
+    {
+        "question": "Rachel removes 47.0 bottle caps from a jar . There were originally 87.0 bottle caps in the jar . How many bottle caps are left in the jar ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "87.0-47.0+87.0=127.0"
+    },
+    {
+        "question": "Alyssa had 129.0 cookies . Aiyanna has 140.0 . How many more cookies does Aiyanna have than Alyssa ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "140.0-129.0+140.0=151.0"
+    },
+    {
+        "question": "There are 33.0 oak trees currently in the park . Park workers had to cut down 18.0 oak trees that were damaged . How many oak trees will be in the park when the workers are finished ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "33.0-18.0+33.0=48.0"
+    },
+    {
+        "question": "A magician was selling magic card decks for 2.0 dollars each . If he started with 5.0 decks and by the end of the day he had 3.0 left , how much money did he earn ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "2.0*(5.0-3.0+3.0)=10.0"
+    },
+    {
+        "question": "Isabel uploaded 25.0 pictures to Facebook . She put 10.0 pics into one album and put the rest into 5.0 different albums . How many pictures were in each album ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(25.0-10.0)/5.0+5.0=8.0"
+    },
+    {
+        "question": "The total number of students in year 8.0 at a high school is 180.0 . There are 24.0 more girls than boys . How many boys are there ?",
+        "label": 0,
+        "id": "offline",
+        "p": 15,
+        "answer": "(180.0-24.0)/2.0+2.0=80.0"
+    },
+    {
+        "question": "Josh had 142.0 pencils . He gave 31.0 pencils to Dorothy . How many pencils does Josh have left ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "142.0-31.0+142.0=253.0"
+    },
+    {
+        "question": "Joan found 6.0 seashells and Jessica found 8.0 seashells on the beach . How many seashells did they find together ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "6.0+8.0+6.0=20.0"
+    },
+    {
+        "question": "Mary found 18.0 seashells and Jessica found 41.0 seashells on the beach . How many seashells did they find together ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "18.0+41.0+18.0=77.0"
+    },
+    {
+        "question": "Dorothy has 72.0 cards . She gives 5.0 to Harold . How many cards will Dorothy have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "72.0-5.0+72.0=139.0"
+    },
+    {
+        "question": "Michelle has 7.0 boxes of crayons . Each box holds 5.0 crayons . How many crayons does Michelle have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "7.0*5.0+7.0=42.0"
+    },
+    {
+        "question": "Harry starts with 79.0 apples . He buys 5.0 more . How many apples does Harry end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "79.0+5.0+79.0=163.0"
+    },
+    {
+        "question": "Greg and Sharon own neighboring cornfields . Greg harvested 0.4 acre of corn on Monday and Sharon harvested 0.1 acre . How many more acres did Greg harvest than Sharon ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "0.4-0.1+0.4=0.7000"
+    },
+    {
+        "question": "Shelby ’ s teacher gives out gold stars for great math work . Yesterday , Shelby earned 4.0 gold stars . Today , she earned 3.0 more . How many gold stars did Shelby earn in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0+3.0+4.0=11.0"
+    },
+    {
+        "question": "Sam , Dan , Tom , and Keith each have 14.0 Pokemon cards . How many Pokemon cards do they have in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "4.0*14.0+4.0=60.0"
+    },
+    {
+        "question": "Mrs. Hilt went to a concert . A total of 65899.0 people attended the concert . The next week , Mrs. Hilt went to a second concert , which had 119.0 more people in attendance . How many people were at the second concert ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "65899.0+119.0+65899.0=131917.0"
+    },
+    {
+        "question": "For his car , Mike spent $ 118.54 on speakers and $ 106.33 on new tires . Mike wanted 3.0 CD 's for $ 4.58 but decided not to . In total , how much did Mike spend on car parts ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "118.54+106.33+118.54=343.4100"
+    },
+    {
+        "question": "Jack is inviting 4.0 friends to a party . He has 4.0 cookies . How many cookies will each friend get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0/4.0+4.0=5.0"
+    },
+    {
+        "question": "If a pair of shoes that cost 50.0 dollars was marked down by 8.0 % , how much do they cost now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 5,
+        "answer": "50.0-(50.0-8.0)*0.01*50.0=29.0"
+    },
+    {
+        "question": "A treasure hunter discovered a buried treasure chest filled with a total of 5155.0 gems . 45.0 of the gems were diamonds , and the rest were rubies . How many of the gems were rubies ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "5155.0-45.0+5155.0=10265.0"
+    },
+    {
+        "question": "There are 4.0 walnut trees currently in the park . Park workers will plant 6.0 walnut trees today . How many walnut trees will the park have when the workers are finished ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "4.0+6.0+4.0=14.0"
+    },
+    {
+        "question": "Sally earns $ 12.5 an hour cleaning houses . If she works for 12.0 hours , how much money will she make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "12.5*12.0+12.5=162.5000"
+    },
+    {
+        "question": "While playing at the arcade , Edward won 3.0 tickets playing ' whack a mole ' and 5.0 tickets playing ' skee ball ' . If he was trying to buy candy that cost 4.0 tickets a piece , how many could he buy ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "(3.0+5.0)/4.0+4.0=6.0"
+    },
+    {
+        "question": "They entered the circus tent and saw that there are 4.0 sections for the audience . If each section can accommodate 246.0 people , how many people can the tent accommodate in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "4.0*246.0+4.0=988.0"
+    },
+    {
+        "question": "Alyssa picked 25.0 limes and Mike picked 32.0 limes . Tom picked 12.0 plums . How many limes were picked in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "25.0+32.0+25.0=82.0"
+    },
+    {
+        "question": "There are 41.0 pencils in the drawer . Mike placed 30.0 pencils in the drawer . How many pencils are now there in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "41.0+30.0+41.0=112.0"
+    },
+    {
+        "question": "A chef needs to cook 13.0 potatoes . He has already cooked 5.0 . If each potato takes 6.0 minutes to cook , how long will it take him to cook the rest ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "6.0*(13.0-5.0+5.0)=78.0"
+    },
+    {
+        "question": "231.0 birds were sitting in a tree . Some more fly up to the tree . Then there were 312.0 birds in the tree . How many more fly up to the tree ?",
+        "label": 0,
+        "id": "offline",
+        "p": 10,
+        "answer": "312.0-231.0+312.0=393.0"
+    },
+    {
+        "question": "Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "4.4+2.86+4.4=11.6600"
+    },
+    {
+        "question": "There are 64.0 pigs in the barn . Some more come to join them . Now there are 86.0 pigs . How many pigs came to join them ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "86.0-64.0+86.0=108.0"
+    },
+    {
+        "question": "There are 3.0 eggs in each box . How many eggs are in 2.0 boxes ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*2.0+3.0=9.0"
+    },
+    {
+        "question": "Jessica , Sandy , and Jason each have 8.0 pencils . How many pencils do they have have in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*8.0+3.0=27.0"
+    },
+    {
+        "question": "Teresa starts with 52.0 bananas . She gets 2.0 more from Rachel . How many bananas does Teresa end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "52.0+2.0+52.0=106.0"
+    },
+    {
+        "question": "Billy has 62.0 crayons . 52.0 are eaten by a hippopotamus . How many crayons will Billy have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "62.0-52.0+62.0=72.0"
+    },
+    {
+        "question": "Wendy ran 19.833333333333332 miles and walked 9.166666666666666 miles . How much farther did Wendy run than walk ?",
+        "label": 0,
+        "id": "offline",
+        "p": 35,
+        "answer": "19.833333333333332-9.166666666666666+19.833333333333332=30.5000"
+    },
+    {
+        "question": "Keith grew 6.0 turnips . Alyssa grew 9.0 turnips . How many turnips did they grow in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "6.0+9.0+6.0=21.0"
+    },
+    {
+        "question": "Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "2.0*(3.0*7.0+7.0)=56.0"
+    },
+    {
+        "question": "A chef needs to cook 15.0 potatoes . He has already cooked 6.0 . If each potato takes 8.0 minutes to cook , how long will it take him to cook the rest ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "8.0*(15.0-6.0+6.0)=120.0"
+    },
+    {
+        "question": "Jason went to the mall on Saturday to buy clothes . He spent $ 14.28 on shorts and $ 4.74 on a jacket . In total , how much money did Jason spend on clothing ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "14.28+4.74+14.28=33.3000"
+    },
+    {
+        "question": "A restaurant served 9.0 hot dogs during lunch and 2.0 during dinner today . It served 5.0 of them yesterday . How many hot dogs were served today ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "9.0+2.0+9.0=20.0"
+    },
+    {
+        "question": "Elizabeth is inviting 5.0 friends to a party . She has 5.0 cookies . How many cookies will each friend get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0/5.0+5.0=6.0"
+    },
+    {
+        "question": "Maggie bought 4.0 packs of red bouncy balls , 8.0 packs of yellow bouncy balls , and 4.0 packs of green bouncy balls . There were 10.0 bouncy balls in each package . How many bouncy balls did Maggie buy in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 0,
+        "answer": "(4.0*4.0+4.0+8.0)*10.0=280.0"
+    },
+    {
+        "question": "A pet shelter had 3.0 puppies when another 3.0 were brought in . If 3.0 puppies a day are adopted , how long would it take for all of them to be adopted ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "(3.0+3.0)/3.0+3.0=5.0"
+    },
+    {
+        "question": "Paul made 68.0 dollars mowing lawns and 13.0 dollars weed eating . If he only spent 9.0 dollar a week , how long would the money last him ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(68.0+13.0)/9.0+9.0=18.0"
+    },
+    {
+        "question": "There are 2.0 pencils in the drawer . Tim placed 3.0 pencils in the drawer . How many pencils are now there in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0+3.0+2.0=7.0"
+    },
+    {
+        "question": "The farmer had 127.0 apples . He gave 88.0 apples to his neighbor . How many apples does he have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "127.0-88.0+127.0=166.0"
+    },
+    {
+        "question": "Jovana filled her bucket with 5.0 pounds of shells . If she adds 12.0 more pounds of shell to fill her bucket , how many pounds does she have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "5.0+12.0+5.0=22.0"
+    },
+    {
+        "question": "Joan grew 8.0 watermelons and 4.0 turnips . Tom grew 9.0 watermelons . How many watermelons did they grow in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0+9.0+8.0=25.0"
+    },
+    {
+        "question": "Pamela has 50.0 Skittles . She gives 7.0 to Karen . How many Skittles will Pamela have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "50.0-7.0+50.0=93.0"
+    },
+    {
+        "question": "There are 1986.0 books in Oak Grove 's public library . In addition , there are 5106.0 books in its school libraries . How many books do the libraries in Oak Grove have overall ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "1986.0+5106.0+1986.0=9078.0"
+    },
+    {
+        "question": "Emily 's team won their dodgeball game and scored 39.0 points total . If Emily scored 23.0 of the points and everyone else scored 2.0 points each , how many players were on her team ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(39.0-23.0)/2.0+2.0=10.0"
+    },
+    {
+        "question": "There were 16.0 friends playing a video game online when 7.0 players quit . If each player left had 8.0 lives , how many lives did they have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "8.0*(16.0-7.0+7.0)=128.0"
+    },
+    {
+        "question": "The cafeteria had 86.0 apples . For lunch they handed out 30.0 to students and decided to use the rest to make pies . If each pie takes 8.0 apples , how many pies could they make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(86.0-30.0)/8.0+8.0=15.0"
+    },
+    {
+        "question": "There were 8.0 friends playing a video game online when 3.0 players quit . If each player left had 3.0 lives , how many lives did they have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "3.0*(8.0-3.0+3.0)=24.0"
+    },
+    {
+        "question": "Katherine has 34.0 bottle caps . 8.0 are eaten by a hippopotamus . How many bottle caps will Katherine have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "34.0-8.0+34.0=60.0"
+    },
+    {
+        "question": "Dan has 5.0 blue marbles . Mary has 2.0 times more blue marbles than Dan . How many blue marbles does Mary have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0*2.0+5.0=15.0"
+    },
+    {
+        "question": "Arthur has 6.0 cards . Aaron has with 5.0 cards . Aaron finds another 62.0 . How many cards does Aaron end with ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "5.0+62.0+5.0=72.0"
+    },
+    {
+        "question": "58.0 children are taking a bus to the zoo . They sit 2.0 children in every seat . How many seats will the children need in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "58.0/2.0+58.0=87.0"
+    },
+    {
+        "question": "There are 2.0 orchid bushes currently in the park . Park workers will plant 4.0 orchid bushes today . How many orchid bushes will the park have when the workers are finished ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "2.0+4.0+2.0=8.0"
+    },
+    {
+        "question": "A tennis racket that regularly sells for 135.0 dollars is on sale for 25.0 % off the regular price . What is the sale price , in dollars ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "135.0-(25.0-0.01)*135.0*25.0=-84206.2500"
+    },
+    {
+        "question": "A chef needs to cook 16.0 potatoes . He has already cooked 7.0 . If each potato takes 5.0 minutes to cook , how long will it take him to cook the rest ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "5.0*(16.0-7.0+7.0)=80.0"
+    },
+    {
+        "question": "There are 7.0 crayons in the drawer . Mary took 3.0 crayons out of the drawer . How many crayons are there now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "7.0-3.0+7.0=11.0"
+    },
+    {
+        "question": "Hannah 's Vegetarian Restaurant bought 0.3333333333333333 pound of green peppers and 0.3333333333333333 pound of red peppers . How many pounds of peppers did Hannah 's Vegetarian Restaurant buy in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 36,
+        "answer": "0.3333333333333333+0.3333333333333333+0.3333333333333333=1.0"
+    },
+    {
+        "question": "A car company produced 3884.0 cars in North America and 2871.0 cars in Europe . How many cars is that in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "3884.0+2871.0+3884.0=10639.0"
+    },
+    {
+        "question": "Jessica is baking a cake . The recipe calls for 8.0 cups of flour and 2.0 cups of sugar . She already put in 4.0 cups of flour . How many cups of flour does she need to add ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "There were a total of 8.0 football games this year , 4.0 are played at night . Keith missed 4.0 of the games . How many football games did Keith go to in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "There were 44.0 boys and 53.0 girls on the playground at recess . How many children were on the playground in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "44.0+53.0+44.0=141.0"
+    },
+    {
+        "question": "Billy was putting his spare change into piles . He had 2.0 piles of quarters and 3.0 piles of dimes . If each pile had 4.0 coins in it , how many coins did he have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "4.0*(2.0+3.0+3.0)=32.0"
+    },
+    {
+        "question": "Marcus has 210.0 baseball cards . He has 58.0 more than Carter . How many baseball cards does Carter have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "210.0-58.0+210.0=362.0"
+    },
+    {
+        "question": "The school is planning a field trip . There are 14.0 students and 2.0 seats on each school bus . How many buses are needed to take the trip ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "14.0/2.0+14.0=21.0"
+    },
+    {
+        "question": "Tom has 9.0 yellow balloons Sara has 8.0 yellow balloons . How many yellow balloons do they have in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "9.0+8.0+9.0=26.0"
+    },
+    {
+        "question": "When Joan was visited by the toothfairy , she received 14.0 each of quarters , half - dollars , and dimes . How much money did the toothfairy leave Joan ?",
+        "label": 0,
+        "id": "offline",
+        "p": 5,
+        "answer": "14.0*(0.1-0.25+0.5+0.1)=6.3000"
+    },
+    {
+        "question": "The schools debate team had 11.0 boys and 45.0 girls on it . If they were split into groups of 7.0 how many groups could they make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(11.0+45.0)/7.0+7.0=15.0"
+    },
+    {
+        "question": "If Teresa jogged 25.0 kilometers at 5.0 kilometers per hour , how long was Teresa jogging ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "25.0/5.0+25.0=30.0"
+    },
+    {
+        "question": "Debby 's class is going on a field trip to the zoo . If each van can hold 9.0 people and there are 40.0 students and 14.0 adults going , how many vans will they need ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(40.0+14.0)/9.0+9.0=15.0"
+    },
+    {
+        "question": "Kaleen filled a bucket with 0.75 gallon of water . A few minutes later , she realized only 0.5 gallon of water remained . How much water had leaked out of the bucket ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "0.75-0.5+0.75=1.0"
+    },
+    {
+        "question": "A pet store had 64.0 puppies . In one day they sold 28.0 of them and put the rest into cages with 4.0 in each cage . How many cages did they use ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(64.0-28.0)/4.0+4.0=13.0"
+    },
+    {
+        "question": "Allen , Shiela ’ s brother , likes to play with blocks . Shiela repainted Allen ’ s old blocks in different colors . If Allen has 49.0 identical blocks and there are 7.0 blocks for every color of paint used , how many colors did Shiela use ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "49.0/7.0+49.0=56.0"
+    },
+    {
+        "question": "If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "3.0*5.0+3.0=18.0"
+    },
+    {
+        "question": "Henry wants to split a collection of crayons into groups of 6.0 . Henry has 42.0 crayons . How many groups will be created ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "42.0/6.0+42.0=49.0"
+    },
+    {
+        "question": "While shopping for music online , Nancy bought 3.0 country albums and 5.0 pop albums . Each album came with a lyric sheet and had 8.0 songs . How many songs did Nancy buy total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "8.0*(3.0+5.0+5.0)=104.0"
+    },
+    {
+        "question": "While shopping for music online , Isabel bought 6.0 country albums and 2.0 pop albums . Each album came with a lyric sheet and had 9.0 songs . How many songs did Isabel buy total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "9.0*(6.0+2.0+2.0)=90.0"
+    },
+    {
+        "question": "Mark sprinted 24.0 miles at 6.0 miles per hour . How long did Mark sprint ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "24.0/6.0+24.0=28.0"
+    },
+    {
+        "question": "Joan had 5.0 dimes in her bank . She spent 2.0 of her dimes . How many dimes does she have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "5.0-2.0+5.0=8.0"
+    },
+    {
+        "question": "While shopping for music online , Megan bought 2.0 country albums and 8.0 pop albums . Each album came with a lyric sheet and had 7.0 songs . How many songs did Megan buy total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "7.0*(2.0+8.0+8.0)=126.0"
+    },
+    {
+        "question": "The clown blew up 47.0 balloons . Then he blew up 13.0 more balloons . How many balloons does the clown have now ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "47.0+13.0+47.0=107.0"
+    },
+    {
+        "question": "Benny has 6.0 blue marbles . Keith has 5.0 times more blue marbles than Benny . How many blue marbles does Keith have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "6.0*5.0+6.0=36.0"
+    },
+    {
+        "question": "An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 more liters of oil . In all , how many liters of oil leaked into the water ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "6522.0+5165.0+6522.0=18209.0"
+    },
+    {
+        "question": "Sarah was planting vegetables in her garden . She started with 21.0 seeds and planted 12.0 of them in the big garden and in each of her small gardens put 3.0 seeds each . How many small gardens did Sarah have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(21.0-12.0)/3.0+3.0=6.0"
+    },
+    {
+        "question": "Katie baked 18.0 cupcakes for her school 's bake sale . If her brother , Todd , ate 8.0 of them how many packages could she make if she put 2.0 cupcake in each package ?",
+        "label": 0,
+        "id": "offline",
+        "p": 13,
+        "answer": "(18.0-8.0)/2.0+2.0=7.0"
+    },
+    {
+        "question": "Haley uploaded 65.0 pictures to Facebook . She put 17.0 pics into one album and put the rest into 6.0 different albums . How many pictures were in each album ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(65.0-17.0)/6.0+6.0=14.0"
+    },
+    {
+        "question": "Nancy goes fishing with Joan . They catch 18.0 trout . If they equally split up the trout , how many will each one get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "18.0/2.0+18.0=27.0"
+    },
+    {
+        "question": "Mike has 8.0 orange marbles , he gave Sam 4.0 of the marbles . How many orange marbles does he now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "A pet store has 4.0 bird cages . If each cage has 8.0 parrots and 2.0 parakeets in it , how many birds does the pet store have total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "4.0*(8.0+2.0+2.0)=48.0"
+    },
+    {
+        "question": "There were a total of 13.0 hockey games a month . The season is played for 14.0 months . How many hockey games are in the seasons ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "13.0*14.0+13.0=195.0"
+    },
+    {
+        "question": "Joan has 40.0 blue balloons Melanie has 41.0 blue balloons . How many blue balloons do they have in total ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "40.0+41.0+40.0=121.0"
+    },
+    {
+        "question": "Luke was helping the cafeteria workers pick up lunch trays , but he could only carry 4.0 trays at a time . If he had to pick up 20.0 trays from one table and 16.0 trays from another , how many trips will he make ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(20.0+16.0)/4.0+4.0=13.0"
+    },
+    {
+        "question": "A restaurant served 7.0 slices of pie during lunch and 5.0 during dinner today . It served 8.0 of them yesterday . How many slices of pie were served today ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "7.0+5.0+7.0=19.0"
+    },
+    {
+        "question": "Alyssa 's cat had 8.0 kittens and 8.0 had spots . She gave 4.0 to her friends . How many kittens does she now have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 6,
+        "answer": "8.0-4.0+8.0=12.0"
+    },
+    {
+        "question": "At the fair Adam bought 13.0 tickets . After riding the ferris wheel he had 4.0 tickets left . If each ticket cost 9.0 dollars , how much money did Adam spend riding the ferris wheel ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "9.0*(13.0-4.0+4.0)=117.0"
+    },
+    {
+        "question": "Christina just transferred $ 69.0 out of her bank account . As a result , the account now has $ 26935.0 in it . How much money was in the account before the transfer ?",
+        "label": 0,
+        "id": "offline",
+        "p": 11,
+        "answer": "69.0+26935.0+69.0=27073.0"
+    },
+    {
+        "question": "Sarah baked 38.0 cupcakes for her school 's bake sale . If her brother , Todd , ate 14.0 of them how many packages could she make if she put 8.0 cupcake in each package ?",
+        "label": 0,
+        "id": "offline",
+        "p": 14,
+        "answer": "(38.0-14.0)/8.0+8.0=11.0"
+    },
+    {
+        "question": "A new building needed 14.0 windows . The builder had already installed 8.0 of them . If it takes 8.0 hours to install each window , how long will it take him to install the rest ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "8.0*(14.0-8.0+8.0)=112.0"
+    },
+    {
+        "question": "There are 7.0 students in the class and 56.0 eggs . If the eggs are divided equally among the students , how many does each student get ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "56.0/7.0+56.0=64.0"
+    },
+    {
+        "question": "Marie can bike at a speed of 12.0 miles an hour . How far can she bike in 31.0 hours ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "12.0*31.0+12.0=384.0"
+    },
+    {
+        "question": "Ernest has 45.0 bananas that must be put away in boxes . Julie comes to help and brings 3.0 cookies to share with Ernest . If there are 5.0 boxes , how many bananas must go in each box ?",
+        "label": 0,
+        "id": "offline",
+        "p": 7,
+        "answer": "45.0/5.0+45.0=54.0"
+    },
+    {
+        "question": "Each chocolate bar in a box cost $ 6.0 . If a box had 13.0 bars total and Zoe sold all but 6.0 bars , how much money would she have made ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "6.0*(13.0-6.0+6.0)=78.0"
+    },
+    {
+        "question": "A worksheet had 4.0 problems on it . If a teacher had 16.0 worksheets to grade and had already graded 8.0 of them , how many more problems does she have to grade ?",
+        "label": 0,
+        "id": "offline",
+        "p": 12,
+        "answer": "4.0*(16.0-8.0+8.0)=64.0"
+    },
+    {
+        "question": "If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "36.0/12.0+36.0=39.0"
+    },
+    {
+        "question": "Mrs. Sheridan has 17.0 cats . Mr. Sheridan gave her 14.0 more cats . How many cats does Mrs. Sheridan have altogether ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "17.0+14.0+17.0=48.0"
+    },
+    {
+        "question": "There are 84.0 leaves . There are 139.0 ladybugs on each leaf . How many ladybugs are there in all ?",
+        "label": 0,
+        "id": "offline",
+        "p": 9,
+        "answer": "84.0*139.0+84.0=11760.0"
+    },
+    {
+        "question": "Sara picked 35.0 pears and 27.0 apples from the orchard . She gave 28.0 pears to Dan . How many pears does Sara have ?",
+        "label": 0,
+        "id": "offline",
+        "p": 8,
+        "answer": "35.0-28.0+35.0=42.0"
+    }
+]
